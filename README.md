@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishali14/mine-everything/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
