@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vishali14/mine-everything/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
 ## Tree
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1367-linked-list-in-binary-tree](https://github.com/vishali14/mine-everything/tree/master/1367-linked-list-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vishali14/mine-everything/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
