@@ -39,9 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
