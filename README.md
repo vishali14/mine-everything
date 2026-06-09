@@ -31,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishali14/mine-everything/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishali14/mine-everything/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
