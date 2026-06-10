@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vishali14/mine-everything/tree/master/0128-longest-consecutive-sequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishali14/mine-everything/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vishali14/mine-everything/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vishali14/mine-everything/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishali14/mine-everything/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
